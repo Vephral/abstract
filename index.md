@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Абстрактный бложик
+## Я не знаю зачем вы здесь, кто вы, и как попали сюда
+Это - штука, которую я создал для видимости того, что меня будут читать другие люди. Просто, чтобы перед глазами был образ абстрактного человека, который будет слушать все, что я тут ему буду рассказывать. Пока, это так. В будущем, по мере того, как я буду улучшать способности обьяснять что-то, я пойду дальше. А пока, это - для меня. 
 
-You can use the [editor on GitHub](https://github.com/Vephral/abstract/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Однако, если интересно, то вот то, что я написал на данный момент:
+- [Разница между асинхронными вычислениями и многопоточностью](https://vephral.github.io/Niarecht/async_and_multithreading).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Есть ещё пару проектов:
+- [Recosys](https://github.com/Vephral/Recosys) - проект рекомендательной системы, который был сделан за неделю, поэтому он такой сырой.
+- [Recosys 2.0](https://github.com/Vephral/Recosys_2.0) - вторая версия того проекта. Улучшенная версия того же самого проекта. Добавлены актуальные наборы данных, ну, и код получше. (так как практически весь был написан мной) 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vephral/abstract/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+В будущем, естественно, их будет больше.
